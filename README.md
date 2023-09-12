@@ -2,7 +2,7 @@
 click this link to view this website :https://himangshu190.github.io/basic_portfolio_website/
 
 Thanks 🫵🏻
-basic portfolio website using html and css
+Basic portfolio website using html and css
 Creating a portfolio website involves several steps, including designing the user interface, coding the frontend using HTML, CSS, and JavaScript, and then hosting it on a web server. Here, I'll provide you with a simple example of a portfolio website's frontend code to get you started. Please note that this is a basic template, and you can customize it further according to your needs and preferences.
 JavaScript (script.js):
 This file is empty for now but can be used to add interactivity to your website using JavaScript.
